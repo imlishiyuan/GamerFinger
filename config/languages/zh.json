@@ -1,0 +1,18 @@
+{
+    "back":"返回",
+    "lang":"语言",
+    "slogan":"游戏玩家的快捷工具",
+    "cancel":"取消",
+    "save":"保存",
+    "select_file":"选择位置",
+    "sl":"快速SL",
+    "sl_welcome":"请选择你的游戏",
+    "sl_s":"快速备份",
+    "sl_l":"快速恢复",
+    "sl_e":"编辑"    ,
+    "sl_gname":"游戏名称",
+    "sl_location":"存档位置",
+    "sl_select_dir":"选择文件夹",
+    "sl_game_msg":"存在同名游戏",
+    "sl_location_msg":"位置错误"
+}

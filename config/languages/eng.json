@@ -1,0 +1,18 @@
+{
+    "back":"back",
+    "lang":"language",
+    "slogan":"THE TOOLBOX FOR GAMER",
+    "sl":"quick save & load",
+    "sl_welcome":"select your game",
+    "sl_s":"save",
+    "sl_l":"load",
+    "sl_e":"edit"  ,
+    "sl_gname":"title",
+    "sl_location":"location",
+    "cancel":"cancel",
+    "save":"save",
+    "select_file":"select file or folder",
+    "sl_select_dir":"select folder",
+    "sl_game_msg":"same name exist",
+    "sl_location_msg":"location error"
+}

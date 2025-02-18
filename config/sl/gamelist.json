@@ -1,0 +1,27 @@
+[
+  {
+    "game": "只狼",
+    "from": "C:\\Users\\lee/AppData/Roaming/Sekiro",
+    "to": "3498fd1b-4f3d-48d7-bb20-94273450f5bc",
+    "last": "2025/2/18 17:35:14",
+    "logs": [
+      "2025/2/18 17:33:11: load success",
+      "2025/2/18 17:34:35: load success",
+      "2025/2/18 17:35:14: save success",
+      "2025/2/18 17:39:20: load success",
+      "2025/2/18 17:39:29: load success"
+    ]
+  },
+  {
+    "game": "老头环",
+    "from": "C:\\Users\\lee\\AppData\\Roaming\\EldenRing",
+    "to": "d6993a93-11f6-40af-85bc-f03946800166",
+    "logs": [
+      "2025/2/18 16:17:57: config update",
+      "2025/2/18 17:05:19: config update",
+      "2025/2/18 17:40:05: Source path \"D:\\ui-workspace\\GamerFinger\\config\\sl\\d6993a93-11f6-40af-85bc-f03946800166\\EldenRing\" does not exist",
+      "2025/2/18 17:40:17: save success"
+    ],
+    "last": "2025/2/18 17:40:17"
+  }
+]
