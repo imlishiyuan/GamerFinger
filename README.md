@@ -1,5 +1,6 @@
-# Gamer Finger是一个游戏玩家的工具箱
+# Gamer Finger 是一个游戏玩家的工具箱 
 
+> 准备边打游戏边看看还有什么可以添加的功能
 
 ## 功能列表 feature list
 
