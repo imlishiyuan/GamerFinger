@@ -5,7 +5,8 @@
   "asar": true,
   "productName": "Gamer Finger",
   "directories": {
-    "output": "release/${version}"
+    // "output": "release/${version}"
+    "output": "release"
   },
   "extraFiles": [
     {
