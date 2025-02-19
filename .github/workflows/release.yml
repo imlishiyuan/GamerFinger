@@ -33,4 +33,5 @@ jobs:
       - name: Upload Release Asset
         uses: softprops/action-gh-release@v2.0.8
         with:
+          token: ${{ secrets.TOKEN }}
           files:  release/*
