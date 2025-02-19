@@ -4,12 +4,16 @@ on:
     # 触发条件：推送标签时触发
     tags:
       - "v*"
+# permissions:
+#   contents: write
+#   pull-requests: write
 env:
-  GH_TOKEN: ${{secrets.TOKEN}}
+  GH_TOKEN: ${{secrets.TOKEN }}
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    
 
     steps:
       # Checkout 代码仓库
