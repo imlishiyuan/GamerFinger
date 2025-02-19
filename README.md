@@ -4,7 +4,7 @@
 
 ## 功能列表 feature list
 
-[x] 游戏快速sl（quick save & load）
+- [x] 游戏快速sl（quick save & load）
 
 
 ## 说明 describe
